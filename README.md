@@ -1,10 +1,10 @@
 # torrent-downloader-via-colab
 
 v1 
-<a href="https://colab.research.google.com/github/kanyevelvet/torrent-downloader-via-colab/blob/main/ipynb/Torrent_Downlader" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://github.com/kanyevelvet/torrent-downloader-via-colab/blob/main/ipynb/Torrent_Downlader" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 v2 
-<a href="https://colab.research.google.com/github/kanyevelvet/torrent-downloader-via-colab/blob/main/ipynb/Torrent_Downlader_2" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://github.com/kanyevelvet/torrent-downloader-via-colab/blob/main/ipynb/Torrent_Downloader_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ```colab
